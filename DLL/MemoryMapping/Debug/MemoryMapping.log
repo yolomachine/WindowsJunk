@@ -1,0 +1,5 @@
+﻿  MemoryMapping.cpp
+c:\users\ьтт\documents\visual studio 2015\projects\dll\memorymapping\memorymapping.cpp(15): warning C4018: <: несоответствие типов со знаком и без знака
+     ╤ючфрхЄё  сшсышюЄхър c:\users\№ЄЄ\documents\visual studio 2015\Projects\DLL\Debug\MemoryMapping.lib ш юс·хъЄ c:\users\№ЄЄ\documents\visual studio 2015\Projects\DLL\Debug\MemoryMapping.exp
+  MemoryMapping.vcxproj -> c:\users\ьтт\documents\visual studio 2015\Projects\DLL\Debug\MemoryMapping.dll
+  MemoryMapping.vcxproj -> c:\users\ьтт\documents\visual studio 2015\Projects\DLL\Debug\MemoryMapping.pdb (Full PDB)
